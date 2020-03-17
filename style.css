@@ -7,7 +7,7 @@
 
 html { overflow-y: scroll; overflow-x:hidden;scroll-behavior: smooth; }
 
-@media only screen and (min-width: 1080px) {
+@media only screen and (min-width: 1200px) {
 
 	body{
 	}
@@ -107,7 +107,7 @@ html { overflow-y: scroll; overflow-x:hidden;scroll-behavior: smooth; }
 
 }
 
-@media only screen and (max-width: 1080px) {
+@media only screen and (max-width: 1200px) {
 
 	body{
 	}

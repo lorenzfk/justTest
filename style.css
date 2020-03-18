@@ -87,6 +87,18 @@ html { overflow-y: scroll; overflow-x:hidden;scroll-behavior: smooth; }
 		color: #000;
 
 	}
+	.bottom{
+		position: relative;
+		top:-20px;
+		margin-bottom: 10px;
+	}
+
+	.bottom h1{
+		text-align: center;
+		font-size: 22px;
+		color: #000;
+
+	}
 
 	.button{
 		position: absolute;
